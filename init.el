@@ -200,7 +200,6 @@
 (define-key python-mode-map (kbd "C-c s") 'py-end-of-def-or-class)
 
 (global-set-key (kbd "C-x c") 'delete-region)
-(global-set-key (kbd "C-c k") 'kill-whole-line)
 (global-set-key (kbd "C-c C-j") 'nrepl-jack-in)
 
 
@@ -226,7 +225,7 @@ then its value is used. If both are nil, use 200."
 (set-face-foreground 'highlight nil)
 (set-face-underline 'highlight nil)
 (set-face-foreground 'org-hide "gray14")
-(set-face-foreground 'outline-2 "deep sky blue")
+(set-face-foreground 'outline-2 "sandy brown")
 (set-face-foreground 'outline-3 "deep sky blue")
 (set-face-foreground 'outline-4 "gold")
 (set-face-foreground 'outline-5 "spring green")
