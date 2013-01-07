@@ -47,9 +47,10 @@ auto-save-list/
 backups
 eshell/*
 rcirc-log/
-*.emacs.desktop
+*.emacs.desktop*
 places*
 .smex-items
 repl-port
 bookmarks
 auto-save-list
+#*#
